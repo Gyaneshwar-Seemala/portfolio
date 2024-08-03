@@ -74,7 +74,7 @@ export const PROJECTS = [
     title: "BookKart",
     image: project4,
     description:
-      "BookKart is a frontend-focused, Amazon-like website specifically for buying and selling used books. The platform provides a user-friendly interface for browsing, searching, and purchasing books. Designed using Angular, HTML, and CSS, BookKart includes features such as user authentication, book listings, and a shopping cart. It ensures a smooth and engaging experience for users looking to buy or sell used books.",
+      "BookKart is a frontend-focused, Amazon-like website specifically for buying and selling used books. The platform provides a user-friendly interface for browsing, searching, and purchasing books. Designed using React, HTML, and CSS, BookKart includes features such as user authentication, book listings, and a shopping cart. It ensures a smooth and engaging experience for users looking to buy or sell used books.",
     technologies: ["HTML", "CSS", "react"],
     github: "https://book-kart-ten.vercel.app/",
   },
