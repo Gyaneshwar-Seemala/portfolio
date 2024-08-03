@@ -84,7 +84,7 @@ export const PROJECTS = [
     description:
       "The Portfolio Website serves as a personal showcase of my projects, skills, and professional achievements. Developed with React and Bootstrap, it highlights key projects and includes sections for skills, experience, and contact information. The website features a responsive design and interactive elements to engage visitors and present my work in a polished, professional manner.",
     technologies: ["HTML", "CSS", "React", "Bootstrap"],
-    github: "https://github.com/your-github/portfolio-website",
+    github: "https://portfolio-xi-ecru-22.vercel.app/",
   },
   {
     title: "Chat with PDF: A Custom Chatbot for Custom Data",
