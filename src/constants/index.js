@@ -7,14 +7,14 @@ import project6 from "../assets/projects/project-6.png";
 import project7 from "../assets/projects/project-7.png";
 
 export const HERO_CONTENT = `I am a passionate front-end developer with a talent for creating engaging and responsive web applications. With extensive experience in technologies like React, JavaScript, HTML5, CSS3, and design tools like Figma, I have honed my skills in crafting visually appealing and highly interactive user interfaces. My goal is to leverage my expertise to deliver exceptional user experiences and drive business growth through innovative front-end solutions.`;
-export const ABOUT_TEXT = `I am a dedicated and versatile front-end developer with a passion for creating efficient and user-friendly web applications. With extensive professional experience, I have worked with a variety of technologies, including React, JavaScript, HTML5, CSS3, Less/Sass, and design tools like Figma. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
+export const ABOUT_TEXT = `I am a dedicated and versatile front-end developer with a passion for creating efficient and user-friendly web applications. With extensive professional experience, I have worked with a variety of technologies, including React, JavaScript, HTML5, CSS3, and design tools like Figma. My journey in web development began with a deep curiosity for how things work, and it has evolved into a career where I continuously strive to learn and adapt to new challenges. I thrive in collaborative environments and enjoy solving complex problems to deliver high-quality solutions. Outside of coding, I enjoy staying active, exploring new technologies, and contributing to open-source projects.`;
 
 export const EXPERIENCES = [
   {
     year: "01/2024 - 07/2024",
     role: "Front End and UI/UX Engineer (Intern)",
     company: "BaseTech",
-    description: `Contributed to the strategic development and implementation of frontend web applications, focusing on UI/UX design and leveraging React to enhance functionality and user experience. Built highly-reliable and scalable products in full-stack Go Lang leveraging its features and flexibility. Developed backend platform components to function with high throughput and low latency.`,
+    description: `Contributed to the strategic development and implementation of frontend web applications, focusing on UI/UX design and leveraging React to enhance functionality and user experience. Built highly-reliable and scalable products in front-end leveraging its features and flexibility.`,
     technologies: ["React", "JavaScript", "HTML5", "CSS3"],
   },
   {
